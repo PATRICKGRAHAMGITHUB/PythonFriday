@@ -1,6 +1,6 @@
 # Introduction
 This project is London Market's Alternative Risk Bordereau input proof of concept for QA Python project
-...
+
 
 # Getting started for developers
 The build for the Alternative Risk runs on Python and a folder on the root of your C: drive.
