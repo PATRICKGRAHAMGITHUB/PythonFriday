@@ -24,5 +24,3 @@ Once the Excel files are loaded in as JSON format, the data is then moved to tab
 3. Password: 5n0VVF1Ak3
 https://stackoverflow.com/questions/22575662/filename-too-long-in-git-for-windows
 https://www.youtube.com/watch?v=lJKKSoEHk5A
-
-
